@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/Cplus/Tic Tac Toe 3.0/Game.cpp
+iostream
+-
+string
+-
+Game.h
+C:/Users/User/Desktop/Cplus/Tic Tac Toe 3.0/Game.h
+
+C:/Users/User/Desktop/Cplus/Tic Tac Toe 3.0/Game.h
+
+C:/Users/User/Desktop/Cplus/Tic Tac Toe 3.0/main.cpp
+iostream
+-
+string
+-
+Game.h
+C:/Users/User/Desktop/Cplus/Tic Tac Toe 3.0/Game.h
+

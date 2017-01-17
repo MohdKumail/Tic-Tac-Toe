@@ -1,0 +1,4 @@
+E:\CLion\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\User\Desktop\Cplus\Tic Tac Toe 3.0"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/User/Desktop/Cplus/Tic Tac Toe 3.0/cmake-build-debug
